@@ -37,8 +37,5 @@ Welcome to JavaSnake, a classic Snake game developed using Java and the Java Swi
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any inquiries or feedback, please reach out to [sihagtushar1@gmail.com](mailto:sihagtushar1@gmail.com).
